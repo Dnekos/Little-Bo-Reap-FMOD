@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5a0f65e9-9068-464c-bb4d-c0e35fc215b1}">
+		<property name="assetPath">
+			<value>435415__v-ktor__explosion10.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a5f40afc-d646-4bf8-b400-ffb557623130}</destination>
+		</relationship>
+	</object>
+</objects>

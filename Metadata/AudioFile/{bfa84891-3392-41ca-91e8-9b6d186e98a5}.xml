@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bfa84891-3392-41ca-91e8-9b6d186e98a5}">
+		<property name="assetPath">
+			<value>Big Guys/BG_Hurt_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.000997732426304</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a5f40afc-d646-4bf8-b400-ffb557623130}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c03979e3-f65e-4cd3-8346-6cf8f8a3a5ad}">
+		<property name="assetPath">
+			<value>Big Guys/BG_Swing_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.83414965986394563</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a5f40afc-d646-4bf8-b400-ffb557623130}</destination>
+		</relationship>
+	</object>
+</objects>

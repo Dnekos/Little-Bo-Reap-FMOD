@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8ce3c039-7098-4c03-ac54-767c8e19cab8}">
+		<property name="assetPath">
+			<value>486274__craigsmith__r30-29-classic-thunder-clap.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>8.3303124999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a5f40afc-d646-4bf8-b400-ffb557623130}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{55d9bacc-bb6f-4b36-8aa9-e31e44901d87}">
+		<property name="assetPath">
+			<value>Bo Reap - Fairy Tale MAIN 1 _with loop_ - Trimmed.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>10</value>
+		</property>
+		<property name="length">
+			<value>62</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a5f40afc-d646-4bf8-b400-ffb557623130}</destination>
+		</relationship>
+	</object>
+</objects>
